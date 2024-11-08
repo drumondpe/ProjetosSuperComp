@@ -1,0 +1,5 @@
+# Ignora todos os arquivos na pasta PreProcessamento
+PreProcessamento/
+
+# Ignora todos os arquivos com extensão .fa na pasta PosProcessamento
+PosProcessamento/*.fa

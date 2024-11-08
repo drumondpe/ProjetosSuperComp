@@ -1,0 +1,30 @@
+Processo 3 concluiu a contagem no cromossomo 4
+Processo 0 concluiu a contagem no cromossomo 1
+Processo 2 concluiu a contagem no cromossomo 3
+Processo 1 concluiu a contagem no cromossomo 2
+Processo 3 concluiu a contagem no cromossomo 8
+Processo 0 concluiu a contagem no cromossomo 5
+Processo 2 concluiu a contagem no cromossomo 7
+Processo 3 concluiu a contagem no cromossomo 12
+Processo 1 concluiu a contagem no cromossomo 6
+Processo 0 concluiu a contagem no cromossomo 9
+Processo 3 concluiu a contagem no cromossomo 16
+Processo 2 concluiu a contagem no cromossomo 11
+Processo 3 concluiu a contagem no cromossomo 20
+Processo 0 concluiu a contagem no cromossomo 13
+Processo 1 concluiu a contagem no cromossomo 10
+Processo 2 concluiu a contagem no cromossomo 15
+Processo 0 concluiu a contagem no cromossomo 17
+Processo 0 concluiu a contagem no cromossomo 21
+Processo 2 concluiu a contagem no cromossomo 19
+Processo 1 concluiu a contagem no cromossomo 14
+Processo 1 concluiu a contagem no cromossomo 18
+Processo 1 concluiu a contagem no cromossomo 22
+Contagem total de aminoácidos antes do códon STOP:
+Cisteína: 19256862
+Glutamina: 21194944
+Metionina: 39774729
+Prolina: 25661140
+Serina: 31599843
+Treonina: 25681318
+Valina: 28073053
