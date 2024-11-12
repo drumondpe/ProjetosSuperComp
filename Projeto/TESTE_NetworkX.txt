@@ -24,22 +24,31 @@ Clique máxima encontrada: ['10', '45', '39', '5', '50', '1', '27', '20', '25', 
 
 
 Para 15:
-Tempo de execução: 0.00000004 segundos.
+Tempo de execução: 0.00298751 segundos.
 Clique máxima encontrada: 1 3 5 8 9 11 
 Tamanho da clique máxima: 6
 
+
 Para 20:
-Tempo de execução: 0.00000005 segundos.
+Tempo de execução: 0.0259664 segundos.
 Clique máxima encontrada: 3 4 6 10 12 15 17 18 
 Tamanho da clique máxima: 8
 
+
 Para 25:
-Tempo de execução: 0.00000005 segundos.
+Tempo de execução: 0.485511 segundos.
 Clique máxima encontrada: 1 3 5 7 8 9 11 13 16 
 Tamanho da clique máxima: 9
 
+
 Para 30:
+Tempo de execução: 16.5159 segundos.
+Clique máxima encontrada: 2 3 5 11 12 21 24 25 26 30 
+Tamanho da clique máxima: 10
 
 Para 35:
+Tempo de execução: 563.729 segundos.
+Clique máxima encontrada: 6 7 10 13 21 26 28 30 32 34 
+Tamanho da clique máxima: 10
 
 

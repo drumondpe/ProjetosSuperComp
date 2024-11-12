@@ -1,0 +1,3 @@
+Tempo de execução: 563.729 segundos.
+Clique máxima encontrada: 6 7 10 13 21 26 28 30 32 34 
+Tamanho da clique máxima: 10
