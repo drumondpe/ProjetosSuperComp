@@ -1,0 +1,45 @@
+grafo15:
+Clique máxima encontrada: ['11', '6', '3', '12', '4', '5']
+
+grafo20:
+Clique máxima encontrada: ['15', '6', '3', '18', '10', '12', '4', '17']
+
+grafo25:
+Clique máxima encontrada: ['7', '16', '13', '24', '20', '15', '10', '6', '9']
+
+grafo30:
+Clique máxima encontrada: ['25', '26', '12', '2', '11', '24', '30', '3', '21', '5']
+
+grafo35:
+Clique máxima encontrada: ['28', '7', '30', '19', '32', '6', '10', '33', '3', '23']
+
+grafo40:
+Clique máxima encontrada: ['20', '19', '5', '17', '6', '10', '14', '7', '4', '9']
+
+grafo45:
+Clique máxima encontrada: ['34', '16', '21', '9', '36', '22', '15', '45', '19', '27']
+
+grafo50:
+Clique máxima encontrada: ['10', '45', '39', '5', '50', '1', '27', '20', '25', '29', '8']
+
+
+Para 15:
+Tempo de execução: 0.00000004 segundos.
+Clique máxima encontrada: 1 3 5 8 9 11 
+Tamanho da clique máxima: 6
+
+Para 20:
+Tempo de execução: 0.00000005 segundos.
+Clique máxima encontrada: 3 4 6 10 12 15 17 18 
+Tamanho da clique máxima: 8
+
+Para 25:
+Tempo de execução: 0.00000005 segundos.
+Clique máxima encontrada: 1 3 5 7 8 9 11 13 16 
+Tamanho da clique máxima: 9
+
+Para 30:
+
+Para 35:
+
+
