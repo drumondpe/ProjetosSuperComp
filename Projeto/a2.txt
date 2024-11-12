@@ -1,20 +1,25 @@
 Agora devemos justificar porque utilizamos OpenMP e MPI e porque
 diminuiram o tempo de processamento comparado a BuscaExaustiva.
 
-Faça gráficos comparando os tempos de execução.
+Além disso, faça gráficos comparando os tempos de execução.
 
 BuscaExaustiva:
-- Para 15 nós bateu e teve um tempo de execução de 0.00285535 segundos.
-- Para 20 nós bateu e teve um tempo de execução de 0.0396523 segundos.
-- Para 25 nós bateu e teve um tempo de execução de 0.976111 segundos.
+- Para 15 nós bateu e teve um tempo de execução de 0.003 segundos.
+- Para 20 nós bateu e teve um tempo de execução de 0.039 segundos.
+- Para 25 nós bateu e teve um tempo de execução de 0.976 segundos.
 - Para 30 nós bateu e teve um tempo de execução de 27.33 segundos.
 - Para 35 não consegui chegar a ter tempo de execução que cabia no cluster.
 
 OpenMP:
-- Para 15 nós teve um tempo de execução de 0.00231709 segundos.
-- Para 20 nós teve um tempo de execução de 0.0258463 segundos.
-- Para 25 nós teve um tempo de execução de 0.884734 segundos.
-- Para 30 nós teve um tempo de execução de 14.4404 segundos.
+- Para 15 nós teve um tempo de execução de 0.002 segundos.
+- Para 20 nós teve um tempo de execução de 0.026 segundos.
+- Para 25 nós teve um tempo de execução de 0.885 segundos.
+- Para 30 nós teve um tempo de execução de 14.440 segundos.
 - Para 35 nós teve um tempo de execução de 534.126 segundos.
 
 MPI:
+- Para 15 nós teve um tempo de execução de 0.003 segundos.
+- Para 20 nós teve um tempo de execução de 0.026 segundos.
+- Para 25 nós teve um tempo de execução de 0.485 segundos.
+- Para 30 nós teve um tempo de execução de 16.515 segundos.
+- Para 35 nós teve um tempo de execução de 563.729 segundos.
